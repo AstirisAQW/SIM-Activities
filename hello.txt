@@ -1,0 +1,8 @@
+1. What challenges did you face during this activity?
+- None I have faced no challenges.
+
+2. Which Git command was the most confusing?
+- None.
+
+3. How can version control help in real-world software development?
+- Version Control keeps track of any changes and additions to my code. If there are msitakes I can roll back, merge and compare code changes.
